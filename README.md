@@ -1,3 +1,4 @@
+#Dani
 # Introducción
 Proyecto inicial para principantes con el stack de Odoo, PostgreSQL, PgAdmin4, Docker y Docker Compose.
 
